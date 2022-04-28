@@ -1,4 +1,4 @@
-# Hello! I'm Farrukh
+# Hi! I'm MuhammadislomDev
 
 ### Languages and Tools
 
