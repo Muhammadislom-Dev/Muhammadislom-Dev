@@ -25,7 +25,7 @@
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=Muhammadislom-Devr&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Muhammadislom-Dev&theme=tokyonight"
     />
 
     
