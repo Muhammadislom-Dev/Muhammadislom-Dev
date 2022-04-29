@@ -1,4 +1,7 @@
-# Hi! I'm MuhammadislomDev
+<h3 align="center">
+    Welcome to Valisher Botirov profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ### Languages and Tools
 
